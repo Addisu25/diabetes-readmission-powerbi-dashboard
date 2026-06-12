@@ -36,6 +36,9 @@ The project uses diabetes hospital encounter data from 130 US hospitals.
 
 <img width="772" height="436" alt="30 days Hospial Readmission Dshbaord" src="https://github.com/user-attachments/assets/9b70381c-e825-4b3d-8496-260330b7ce1c" />
 
+<img width="696" height="404" alt="By Gender and Risk group" src="https://github.com/user-attachments/assets/2cf0a280-b804-4e1d-b597-ad43fc51afa4" />
+
+
 
 ## Key Insights
 - The overall 30-day readmission rate was 11.2%.
