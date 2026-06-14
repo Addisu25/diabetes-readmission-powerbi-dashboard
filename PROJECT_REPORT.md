@@ -97,18 +97,7 @@ Visuals included:
 - Readmission rate by prior inpatient group
 - High-risk patient table
 
-### 3. Clinical Drivers
-
-This page explores clinical factors associated with readmissions.
-
-Visuals included:
-
-- Readmission rate by diagnosis group
-- Readmission rate by insulin use
-- Readmission rate by A1C result
-- Average length of stay by readmission status
-
-### 4. Operations Drill-Down
+### 3. Operations Drill-Down
 
 This page supports detailed review of patient encounters.
 
