@@ -38,6 +38,9 @@ The project uses diabetes hospital encounter data from 130 US hospitals.
 
 <img width="696" height="404" alt="By Gender and Risk group" src="https://github.com/user-attachments/assets/2cf0a280-b804-4e1d-b597-ad43fc51afa4" />
 
+<img width="746" height="413" alt="Clinical Drivers of 30 Days Readmission" src="https://github.com/user-attachments/assets/7f14988b-22d3-4c6d-8ac4-4946bd347086" />
+
+
 
 
 ## Key Insights
